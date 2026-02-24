@@ -1,1 +1,2 @@
-# coresx-blog
+# There is no blog for now...
+![Logo](CoresX.png)
