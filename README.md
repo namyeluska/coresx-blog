@@ -4,4 +4,4 @@
 Now, rookie officer Ryan Callahan receives a 911 call from a frightened girl claiming her father is attacking her family. The address: Hollow Creek. Before the call cuts off, a distorted male voice warns him not to come. Ignoring protocol, Ryan drives alone to the quarantined town. As he enters the fog-covered streets, something inhuman jumps into his headlights. He crashes into an old mine building and loses consciousness.**
 
 **Police Dispatcher Room** :
-![Police Departmant](devilscarepolicedepartmant.jpg)
+![Police Departmant](https://raw.githubusercontent.com/namyeluska/coresx-blog/refs/heads/main/devilscarepolicedepartmant.jpg)
